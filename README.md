@@ -66,7 +66,7 @@ Phase 3 的特征回注闭环（独立于 z 优化）：
 ### 安装
 
 ```bash
-git clone https://github.com/用户名/catalyst-framework.git
+git clone https://github.com/Brightman-K/catalyst_framework.git
 cd catalyst-framework
 pip install -r requirements.txt
 ```
